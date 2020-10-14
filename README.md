@@ -1,12 +1,10 @@
 # Infinity (Python)
 
----
 
 ## Description
 
 This repo is all about Python. Python is a dynamically typed programming language designed by Guido van Rossum. Because of its large usage, many libraries and support for various frameworks, I've named this repo 'Infinity'. There's an infinite amount of tasks which can be done using Python, from building an application to scientific research. I'll be using Jupyter Notebook which is a web-based notebook environment for interactive computing.
 
----
 
 ## Installation
 
@@ -21,7 +19,6 @@ And launch using
 ```
 $ jupyter notebook
 ```
----
 
 ## What's Included
 
