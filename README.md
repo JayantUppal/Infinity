@@ -29,5 +29,6 @@ $ jupyter notebook
 - Basic Data Types
 - Strings 
 - Built-Ins
+- Python Functionals
 
 
