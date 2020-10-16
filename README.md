@@ -28,5 +28,6 @@ $ jupyter notebook
 - Introduction
 - Basic Data Types
 - Strings 
+- Built-Ins
 
 
