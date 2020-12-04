@@ -28,7 +28,10 @@ $ jupyter notebook
 - Introduction
 - Basic Data Types
 - Strings 
+- Collections
+- Errors and Exceptions
 - Built-Ins
 - Python Functionals
+- Classes
 
 
