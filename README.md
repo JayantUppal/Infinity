@@ -36,4 +36,4 @@ $ jupyter notebook
 
 ### [Data Science](/Data%20Science)
 
-This contains tasks and projects related to Data Science given under Phase-II of internship in StatusNeo (Sept 2020 - Present). 
+This contains tasks related to Data Science given under Phase-II of internship in StatusNeo (Sept 2020 - Present). 
