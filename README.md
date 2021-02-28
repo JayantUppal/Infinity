@@ -34,4 +34,5 @@ $ jupyter notebook
 - Python Functionals
 - Classes
 
-
+## Testing
+Play with notebook using colab - [Link](https://colab.research.google.com/github/JayantUppal/Infinity/blob/master/Data%20Science/NumPy.ipynb)
