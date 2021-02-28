@@ -11,7 +11,7 @@
 
 ### [Task-1](/Data%20Science/Task-1/Task-1.ipynb)
 
-I analyzed insights of every dataset and found almost same pattern in each dataset. So Task-1.ipynb contains detailed analysis of Bangalore housing price dataset and insights about the data.
+I analyzed insights of every dataset and found almost same pattern in each dataset. So Task-1.ipynb contains detailed analysis of Chennai housing price dataset and insights about the data.
 
 
 ### [Hands-On](/Data%20Science/Task-1/Hands-On.ipynb)
