@@ -16,4 +16,4 @@ I analyzed insights of every dataset and found almost same pattern in each datas
 
 ### [Hands-On](/Data%20Science/Task-1/Hands-On.ipynb)
 
-If you want to practice or play with another [datasets](/Data%20Science/Task-1/Datasets), here is the [link]() to google colab.
+If you want to practice with another [datasets](/Data%20Science/Task-1/Datasets), here is the [link]() to google colab.
