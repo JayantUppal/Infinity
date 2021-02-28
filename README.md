@@ -34,5 +34,6 @@ $ jupyter notebook
 - Python Functionals
 - Classes
 
-## Testing
-Play with notebook using colab - [Link](https://colab.research.google.com/github/JayantUppal/Infinity/blob/master/Data%20Science/NumPy.ipynb)
+### [Data Science](/Data%20Science)
+
+This contains tasks and projects related to Data Science given under Phase-II of internship in StatusNeo (Sept 2020 - Present). 
