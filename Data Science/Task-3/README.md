@@ -19,7 +19,7 @@
 
 - <strong>Cyber Security</strong>
   - [Malicious URLs Dataset](http://www.sysnet.ucsd.edu/projects/url/)
-  - [Android Malware Dataset,](https://www.unb.ca/cic/datasets/andmal2020.html)
+  - [Android Malware Dataset](https://www.unb.ca/cic/datasets/andmal2020.html)
   - [Network Intrusion Dataset](http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html)
   - [Honeypots Dataset](https://datadrivensecurity.info/blog/pages/dds-dataset-collection.html)
   - [Phishing Websites Dataset](https://archive.ics.uci.edu/ml/datasets/phishing+websites#)
