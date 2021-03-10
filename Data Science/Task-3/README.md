@@ -10,14 +10,14 @@
 
 ### Task-2
 
-- <super>HealthCare</super>
+- <strong>HealthCare</strong>
   - [Pima Indians Diabetes Database](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
   - [Number of Ebola Cases and Deaths in Affected Countries (2014)](https://data.humdata.org/dataset/ebola-cases-2014)
   - [AV : Healthcare Analytics II](https://www.kaggle.com/nehaprabhavalkar/av-healthcare-analytics-ii)
   - [Fetal Health Classification](https://www.kaggle.com/andrewmvd/fetal-health-classification)
   - [Medical Cost Personal Datasets](https://www.kaggle.com/mirichoi0218/insurance)
 
-- Cyber Security
+- <strong>Cyber Security</strong>
   - [Malicious URLs Dataset](http://www.sysnet.ucsd.edu/projects/url/)
   - [Android Malware Dataset,](https://www.unb.ca/cic/datasets/andmal2020.html)
   - [Network Intrusion Dataset](http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html)
