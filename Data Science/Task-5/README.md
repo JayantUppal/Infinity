@@ -1,13 +1,13 @@
-# Task-4
+# Task-5
 
 
 ## Description
 
-- Find at least 50 new terms from the field of Machine Learning, Deep Learning, Data Science and AI 
-- Research about the meaning of those terms 
-- Explain the terms in an easy to understand manner 
+- Go through this [video](https://www.youtube.com/watch?v=tPYj3fFJGjk)
+- Take notes of important concepts 
+- Design a small ebook called tensor-flow cheat sheet  
+- Tensorflow is an important library and will be useful with your data science projects  
 
-
-### Task-4
-  [50 common Data Science terms explained](https://undolearning.com/lexicons-of-data-science/)
+### Task-5
+  [Tensorflow 2.0 Cheat Sheet](https://undolearning.com/tensorflow-2-0-cheat-sheet-jayantu/)
 
