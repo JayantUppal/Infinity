@@ -11,7 +11,7 @@
     - What ML model is the most suitable for this kind of data? 
 
 ### Task-6
-[Dataset]()
+[Dataset](/Data%20Science/Task-6/Binance_ETHUSDT_d.csv)
 
-[Ethereum Price Prediction Using Deep Learning]() 
+[Ethereum Price Prediction Using Deep Learning](/Data%20Science/Task-6/Task-6.ipynb) 
 
