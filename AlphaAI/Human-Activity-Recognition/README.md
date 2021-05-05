@@ -17,8 +17,9 @@ $ pip install virtualenv
 $ virtualenv har-env
 $ source har-env/bin/activate
 ```
-- Clone this repo using the link -> https://github.com/JayantUppal/Infinity.git
+- Clone this repo
 ```
+git clone https://github.com/JayantUppal/Infinity.git
 cd Infinity
 cd AlphaAI
 cd Human-Activity-Recognition
