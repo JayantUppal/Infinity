@@ -20,15 +20,24 @@ $ source har-env/bin/activate
 - Clone this repo
 ```
 git clone https://github.com/JayantUppal/Infinity.git
-cd Infinity
-cd AlphaAI
-cd Human-Activity-Recognition
+cd Infinity/
+cd AlphaAI/
+cd Human-Activity-Recognition/
 ```
-- Install necessary imports using requirements.txt
+- Install necessary imports (It will take some time)
 ```
 pip install -r requirements.txt
 ```
 - Now, you're good to go
 ```
 python HAR.py
+```
+- I have added four input and output examples in input and output folder respectively.
+- If you want to test on any video, put your video in **input** folder and execute using:-
+```
+python HAR.py
+
+Enter path to input video: input/<test video name with .mp4 goes here>
+
+Output video has been saved in -> output_<test video name>
 ```
