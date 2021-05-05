@@ -20,7 +20,7 @@ $ source har-env/bin/activate
 - Clone this repo using the link -> https://github.com/JayantUppal/Infinity.git
 ```
 cd Infinity
-cd Alpha AI
+cd AlphaAI
 cd Human-Activity-Recognition
 ```
 - Install necessary imports using requirements.txt
