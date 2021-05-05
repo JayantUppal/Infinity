@@ -38,6 +38,6 @@ $ jupyter notebook
 
 This contains tasks related to Data Science given under Phase-II of internship in StatusNeo (Sept 2020 - Present). 
 
-### [Alpha AI](/Alpha%20AI)
+### [Alpha AI](/AlphaAI)
 
 This contains tasks under technical questions (For Data Scientist role)
