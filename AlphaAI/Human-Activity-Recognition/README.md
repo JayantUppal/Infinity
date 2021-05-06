@@ -4,10 +4,7 @@ Identify and recognize human activity from a videosource and classify it based o
 
 ## Solution
 
-I started from searching for some pre-trained models for action recognition and I found that PyTorch provided a few. I will be using the ResNet 3D PyTorch
-model. The ResNet 3D model that PyTorch provides is an 18 layers model. This model has been trained on the Kinetics-400 dataset.
-The Kinetics-400 dataset contains 400 classes of human actions and each class contains at least 400 clips. Each of these clips are around 10 seconds and
-they have been taken from YouTube videos. I will be using these pre-trained weights to recognize actions in our own videos.
+I started by searching for some pre-trained models for action recognition and I found that PyTorch provided a few. I will be using the ResNet 3D PyTorch model. The ResNet 3D model that PyTorch provides is an 18 layers model. This model has been trained on the Kinetics-400 dataset. The Kinetics-400 dataset contains 400 classes of human actions and each class contains at least 400 clips. Each of these clips is around 10 seconds and they have been taken from YouTube videos. I will be using these pre-trained weights to recognize actions in our videos.
 
 ### How to use
 
