@@ -82,14 +82,14 @@ $ source nlp-env/bin/activate
 ```
 - Clone this repo
 ```
-git clone https://github.com/JayantUppal/Infinity.git
-cd Infinity/
-cd AlphaAI/
-cd Blog-Post-Similarity/
+$ git clone https://github.com/JayantUppal/Infinity.git
+$ cd Infinity/
+$ cd AlphaAI/
+$ cd Blog-Post-Similarity/
 ```
 - Install necessary imports (It will take some time)
 ```
-pip install -r requirements.txt
+$ pip install -r requirements.txt
 ```
 - Now, tree structure of your folder should be like this:
 
@@ -99,7 +99,7 @@ pip install -r requirements.txt
 - Download pre-trained word2vec model from google from [here](https://code.google.com/archive/p/word2vec/). You can find the download link under "Pre-trained word and phrase vectors" section. Keep it in the same folder
 - Now, start jupyter notebook using:-
 ```
-jupyter notebook
+$ jupyter notebook
 ```
 - Select 'Blog-Post-Similarity.ipynb' and you're good to go!
 - Also, if you want to test with your own blog posts links, empty/delete the images_doc1 and images_doc2 folder.
