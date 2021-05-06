@@ -38,9 +38,9 @@ $ jupyter notebook
 
 This contains tasks related to Data Science given under Phase-II of internship in StatusNeo (Sept 2020 - Present). 
 
-### [AlphaAI](/AlphaAI)
+### [Alpha AI](/AlphaAI)
 
-This contains tasks given for intersnhip opportunity at ALpha AI (For Data Scientist role). The contents of this repository are:-
+This contains tasks given for intersnhip opportunity at Alpha AI (For Data Scientist role). The contents of this repository are:-
 - Non-technical questions
 - Techinal questions
   - Blog Post Similarity
