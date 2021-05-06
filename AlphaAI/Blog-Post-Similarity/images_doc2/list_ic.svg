@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="8px" viewBox="0 0 12 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>list_ic</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Profile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="FITPASS_Mob_Profile_menu" transform="translate(-117.000000, -190.000000)">
+            <g id="Group-12-Copy" transform="translate(99.000000, 174.000000)">
+                <g id="Group-7" transform="translate(16.000000, 12.000000)">
+                    <g id="list_ic">
+                        <g id="Icon-24px">
+                            <path d="M2,8.66666667 L3.33333333,8.66666667 L3.33333333,7.33333333 L2,7.33333333 L2,8.66666667 L2,8.66666667 Z M2,11.3333333 L3.33333333,11.3333333 L3.33333333,10 L2,10 L2,11.3333333 L2,11.3333333 Z M2,6 L3.33333333,6 L3.33333333,4.66666667 L2,4.66666667 L2,6 L2,6 Z M4.66666667,8.66666667 L14,8.66666667 L14,7.33333333 L4.66666667,7.33333333 L4.66666667,8.66666667 L4.66666667,8.66666667 Z M4.66666667,11.3333333 L14,11.3333333 L14,10 L4.66666667,10 L4.66666667,11.3333333 L4.66666667,11.3333333 Z M4.66666667,4.66666667 L4.66666667,6 L14,6 L14,4.66666667 L4.66666667,4.66666667 L4.66666667,4.66666667 Z" id="Shape" fill="#0F1F2E"></path>
+                            <polygon id="Shape" points="0 0 16 0 16 16 0 16"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
