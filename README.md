@@ -40,4 +40,9 @@ This contains tasks related to Data Science given under Phase-II of internship i
 
 ### [AlphaAI](/AlphaAI)
 
-This contains tasks under technical questions (For Data Scientist role)
+This contains tasks given for intersnhip opportunity at ALpha AI (For Data Scientist role). The contents of this repository are:-
+- Non-technical questions
+- Techinal questions
+  - Blog Post Similarity
+  - Human Activity Recognition
+
