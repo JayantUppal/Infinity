@@ -4,22 +4,22 @@ Given any two blog posts, find similarity among the posts based on examining two
 
 ## Solution
 
-I started with dividing the task in two parts:-
+I started with dividing the task into two parts:-
  - Finding similarity between text entities of blog
  - Finding similarity between images 
  
 ### Text similarity
-Document similarities is one of the most crucial problems of NLP. We can call two documents similar if they are semantically similar and define the same concept or if they are duplicates. 
+Document similarities are one of the most crucial problems of NLP. We can call two documents similar if they are semantically similar and define the same concept or if they are duplicates. 
 Methodology:-
-- I've used word2vec which embeds words into vector space. Word2vec takes a text corpus as input and produce word embeddings as output. Embeddings are the vector representations of text where word or sentences with similar meaning or context have similar representations.
-- We can train a word2vec model ourselves, but for meaningful results we would need tons of documents. Also, that might take a lot of time with my computation limits. So, I'll be loading a pre-trained word2vec model from google. This model contains 300-dimensional vectors for 3 million words and phrases. Link to download it -> https://code.google.com/archive/p/word2vec/
-- Now, for calculating similarites, I'll be using Cosine Distance/Similarity. It is the cosine of the angle between two vectors, which gives us the angular distance between the vectors.
+- I've used word2vec which embeds words into vector space. Word2vec takes a text corpus as input and produces word embeddings as output. Embeddings are the vector representations of text where words or sentences with similar meaning or context have similar representations.
+- We can train a word2vec model ourselves, but for meaningful results, we would need tons of documents. Also, that might take a lot of time with my computation limits. So, I'll be loading a pre-trained word2vec model from google. This model contains 300-dimensional vectors for 3 million words and phrases. Link to download it -> https://code.google.com/archive/p/word2vec/
+- Now, for calculating similarities, I'll be using Cosine Distance/Similarity. It is the cosine of the angle between two vectors, which gives us the angular distance between the vectors.
 
 **Results:**
 
 ![Text-Similarity](https://user-images.githubusercontent.com/47852407/117283955-f50ab300-ae83-11eb-85f4-3fe43b3c650b.png)
 
-You can find these results in jupyter notebook.
+You can find these results in the jupyter notebook.
 - First line, [OOPS QUESTIONS](https://www.mygreatlearning.com/blog/oops-interview-questions/) and [OOPS QUESTIONS(Different)](https://career.guru99.com/top-50-oops-interview-questions/) blogs are approximately 95% similar.
 - Second line, [OOPS QUESTIONS](https://www.mygreatlearning.com/blog/oops-interview-questions/) and [C LANGUAGE](https://www.upgrad.com/blog/c-interview-questions-answers/) blogs are approximately 85% similar.
 - Third line, [OOPS QUESTIONS](https://www.mygreatlearning.com/blog/oops-interview-questions/) and [PYTHON FLASK TUTORIAL](https://dev.to/gajesh/the-complete-flask-beginner-tutorial-124i) blogs are approximately 80% similar.
@@ -27,13 +27,13 @@ You can find these results in jupyter notebook.
 - Fifth line, [OOPS QUESTIONS](https://www.mygreatlearning.com/blog/oops-interview-questions/) and [PSYCHOLOGY](https://www.verywellmind.com/psychology-4014660) blogs are approximately 79% similar.
  
 ### Image similarity
-- There are many pre-trained image classification deep learning models available in Keras. I'll be using ResNet50 for feature extracting in order to compute image similarity between the images.
+- There are many pre-trained image classification deep learning models available in Keras. I'll be using ResNet50 for feature extracting to compute the similarity between the images.
 
 **Results:**
 
 ![Image-Similarity](https://user-images.githubusercontent.com/47852407/117286068-5c296700-ae86-11eb-90e7-09b1c47deac6.png)
 
-You can find these results in jupyter notebook.
+You can find these results in the jupyter notebook.
 - First line, images are:-
 
 <img src="Test/images_doc1/doc1_1.png"  height="100">    <img src="Test/images_doc2/doc2_4.png"  height="100">
@@ -48,8 +48,8 @@ You can find these results in jupyter notebook.
 
 
 ## **Blog Post Similarity**
-- Finally, after adding both components, when you move to the end of jupyter notebook, you have to enter two blog post links and it will give you similarity between text and similar images between the blogs.
-- Following test was done on following blogs - [Chest Workouts](https://www.coachmag.co.uk/workouts/chest-workouts) and [Top 10 chest workouts](https://fitpass.co.in/blog/top-10-chest-exercises-for-men). You can find these results in jupyter notebook.
+- Finally, after adding both components, when you move to the end of the jupyter notebook, you have to enter two blog post links and it will give you similarity between text and similar images between the blogs.
+- The following test was done on the following blogs - [Chest Workouts](https://www.coachmag.co.uk/workouts/chest-workouts) and [Top 10 chest workouts](https://fitpass.co.in/blog/top-10-chest-exercises-for-men). You can find these results in the jupyter notebook.
 
 **Similarity score:  0.91736645 (Text Entities)**
 
@@ -70,7 +70,7 @@ There were a lot of **similar images**, some of them are:-
     <img src="images_doc1/1-1-bench-press.jpg"  height="100">
     <img src="images_doc2/gallery_image_barbell-bench-press_7A72.jpg"  height="100">
 
-NOTE: Text similarity and image similarity thresholds can be set according to the domain knowledge. For example - Threshold will vary when used as a plagiarism checker and when used as a similar article search.
+NOTE: Text similarity and image similarity thresholds can be set according to the domain knowledge. For example - The threshold will vary when used as a plagiarism checker and when used as a similar article search.
 
 ## How to use
 
