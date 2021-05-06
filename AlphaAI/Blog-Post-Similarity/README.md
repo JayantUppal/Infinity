@@ -36,27 +36,24 @@ You can find these results in jupyter notebook.
 You can find these results in jupyter notebook.
 - First line, images are:-
 
-<img src="Test/images_doc1/doc1_1.png"  height="100">
-<img src="Test/images_doc2/doc2_4.png"  height="100">
+<img src="Test/images_doc1/doc1_1.png"  height="100">    <img src="Test/images_doc2/doc2_4.png"  height="100">
 
 - Second line, images are:-
 
-<img src="Test/images_doc1/doc1_3.png"  height="100">
-<img src="Test/images_doc2/doc2_3.png"  height="100">
+<img src="Test/images_doc1/doc1_3.png"  height="100">    <img src="Test/images_doc2/doc2_3.png"  height="100">
 
 - Third line, images are:-
 
-<img src="Test/images_doc1/doc1_3.png"  height="100">
-<img src="Test/images_doc2/doc2_2.png"  height="100">
+<img src="Test/images_doc1/doc1_3.png"  height="100">    <img src="Test/images_doc2/doc2_2.png"  height="100">
 
 
 ## **Blog Post Similarity**
 - Finally, after adding both components, when you move to the end of jupyter notebook, you have to enter two blog post links and it will give you similarity between text and similar images between the blogs.
 - Following test was done on following blogs - [Chest Workouts](https://www.coachmag.co.uk/workouts/chest-workouts) and [Top 10 chest workouts](https://fitpass.co.in/blog/top-10-chest-exercises-for-men). You can find these results in jupyter notebook.
 
-Similarity score:  0.91736645 (Text Entities)
+**Similarity score:  0.91736645 (Text Entities)**
 
-There were a lot of similar images, some of them are:-
+There were a lot of **similar images**, some of them are:-
 
 - images_doc1/home_workout_push_up_main.jpg is similar to images_doc2/gallery_image_pushups_C09A.jpg
 
