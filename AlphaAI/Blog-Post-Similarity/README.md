@@ -82,7 +82,7 @@ $ source nlp-env/bin/activate
 ```
 - Clone this repo
 ```
-git clone <repo-link>
+git clone https://github.com/JayantUppal/Infinity.git
 cd Infinity/
 cd AlphaAI/
 cd Blog-Post-Similarity/
@@ -91,12 +91,12 @@ cd Blog-Post-Similarity/
 ```
 pip install -r requirements.txt
 ```
-- Download pre-trained word2vec model from google from [here](https://code.google.com/archive/p/word2vec/). You can find the download link under "Pre-trained word and phrase vectors" section. Keep it in the same folder
 - Now, tree structure of your folder should be like this:
 
-<tree pic>
+![Folder Tree](https://user-images.githubusercontent.com/47852407/117334392-92330f00-aeb7-11eb-9e01-582fa1125666.png)
 
 - images_doc1 and images_doc2 contains images from test run. Test folder contains images for image similarity test run. Both of them are explained above.
+- Download pre-trained word2vec model from google from [here](https://code.google.com/archive/p/word2vec/). You can find the download link under "Pre-trained word and phrase vectors" section. Keep it in the same folder
 - Now, start jupyter notebook using:-
 ```
 jupyter notebook
