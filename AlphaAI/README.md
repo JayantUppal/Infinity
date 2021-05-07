@@ -31,8 +31,7 @@ My greatest failure was not being able to clear my JEE Advanced examination and 
 
 **7. What did you learn from your greatest failure?**
 
-
-I considered not getting into an IIT as my greatest failure but I later realized that a college does not define our opportunities. One can learn from anywhere and make a path for himself in any circumstances. I joined UPES and have not regretted a day since then. I have been growing in terms of my intelligence and skills since Day 1 here and have achieved many milestones, despite not being an IITian too.
+My self-efficacy of having the calibre to crack IIT but not able to get into one is what I consider as my biggest failure. I learnt that consistency and time management plays a major role when you aim for something. Also hard work, but more importantly, smart work is the gold key to success. But "Failures are the stepping stones to success", so I took my college years as an opportunity to work on these factors. Now, I am very consistent with all my work and have been growing in terms of my intelligence and skills. I have also developed a mindset to turn every challenge into an opportunity to grow.
 
 **8. What would you like to change about yourself?**
 
